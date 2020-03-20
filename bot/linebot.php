@@ -759,7 +759,7 @@ function replyMsg($event, $client)
 						$pieces = explode("|", $msg);
 						$_sel = $pieces[1];
 
-						$api_key="8kS20pKsHCR5IQZDB5Jf__t7GfS68pg";
+						$api_key="8kS20pKsHCR5IQZDB5Jf__t7GfS68pgX";
 
 						$msg_encode = urlencode($_sel);
 						$json_cmsg = file_get_contents('https://api.mlab.com/api/1/databases/testbot/collections/bot?apiKey='.$api_key.'&q={"question":"'.$msg_encode.'"}');
