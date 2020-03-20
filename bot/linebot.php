@@ -223,7 +223,7 @@ if (!is_null($events['events'])) {
 					$messages = [
 							"type" => "text",
 							//"text" =>  "สวัสดี คุณ ".$obj->displayName
-							"text" =>  "สวัสดี คุณ ".$obj->displayName."(".$obj->statusMessage.")"
+							"text" =>  "สวัสดี คุณ ".$obj->displayName." (".$obj->statusMessage.")"
 					];
 
 			}
