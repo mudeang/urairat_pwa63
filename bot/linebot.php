@@ -12,8 +12,8 @@ require_once('LINEBotTiny.php');
 $api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 //line
-$channelAccessToken = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-$access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$channelAccessToken = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvNe8/F1VJlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW/RYN0S5XGsxzWnloZi3cBoBltuRX4EQX/s6MO2DJ0HCgdB04t89/1O/w1cDnyilFU=';
+$access_token = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvNe8/F1VJlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW/RYN0S5XGsxzWnloZi3cBoBltuRX4EQX/s6MO2DJ0HCgdB04t89/1O/w1cDnyilFU=';
 
 //line
 $channelSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
