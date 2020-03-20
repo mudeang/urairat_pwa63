@@ -12,8 +12,8 @@ require_once('LINEBotTiny.php');
 $api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 //line
-$channelAccessToken = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvNe8/F1VJlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW/RYN0S5XGsxzWnloZi3cBoBltuRX4EQX/s6MO2DJ0HCgdB04t89/1O/w1cDnyilFU=';
-$access_token = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvNe8/F1VJlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW/RYN0S5XGsxzWnloZi3cBoBltuRX4EQX/s6MO2DJ0HCgdB04t89/1O/w1cDnyilFU=';
+$channelAccessToken = 'lxWLGxsR94JQ3Q1UZ/cjnkF01RmV0NUy8FgsWv/Yep3bddxzGos3y64WBt6S+LgqlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW9mqRGb7JG4QltQkwcWlbYRtVVUCrSCK7ArtEXpExWfcAdB04t89/1O/w1cDnyilFU=';
+$access_token = 'lxWLGxsR94JQ3Q1UZ/cjnkF01RmV0NUy8FgsWv/Yep3bddxzGos3y64WBt6S+LgqlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW9mqRGb7JG4QltQkwcWlbYRtVVUCrSCK7ArtEXpExWfcAdB04t89/1O/w1cDnyilFU=';
 
 //line
 $channelSecret = '6b5689311b52ae6b32fe8a45c8fb00b5';
