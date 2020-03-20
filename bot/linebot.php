@@ -16,7 +16,7 @@ $channelAccessToken = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvN
 $access_token = 'KR8EX1ViT9PblYuuLAXwbTCiLpMgUG/wFsdhPtpuRTUTkmWpRRM87ZpvNe8/F1VJlliLCsOVCvESTjNirJeqlBwb8EVa9dsae9/926/ANW/RYN0S5XGsxzWnloZi3cBoBltuRX4EQX/s6MO2DJ0HCgdB04t89/1O/w1cDnyilFU=';
 
 //line
-$channelSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$channelSecret = '6b5689311b52ae6b32fe8a45c8fb00b5';
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 $botName = "BOT";
